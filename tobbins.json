@@ -1,1 +1,17 @@
-{"name":"DavidBuchweitz.Test","version":"2.0.0","require":[{"package":"DavidBuchweitz.Foundation","version":"^1.0.0"}],"require-dev":[{"package":"Missing.DevOnly","version":"1.0.0"}]}
+{
+  "name": "DavidBuchweitz.Test",
+  "version": "2.0.0",
+  "require": [
+    {
+      "package": "DavidBuchweitz.Foundation",
+      "version": "^1.0.0"
+    }
+  ],
+  "require-dev": [
+    {
+      "package": "Missing.DevOnly",
+      "version": "1.0.0"
+    }
+  ],
+  "publish": false
+}
