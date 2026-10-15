@@ -1,0 +1,1 @@
+namespace DavidBuchweitz.Foundation; class NumberSource { int value() { return 10; } }
