@@ -1,1 +1,1 @@
-namespace DavidBuchweitz.Test; using DavidBuchweitz.Foundation; class HttpServer { int value() { var core=new NumberSource(); return core.value()+1; } }
+namespace DavidBuchweitz.Test; using DavidBuchweitz.Foundation; class HttpServer { int value() { var core=new NumberSource(); return core.value()+2; } }
